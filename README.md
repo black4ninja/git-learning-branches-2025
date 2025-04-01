@@ -1,3 +1,3 @@
 # git-learning-branches-2025
 
-Hola Mundo
+Este repositorio es para demostrar el uso de los branches y el gitflow simplificado.

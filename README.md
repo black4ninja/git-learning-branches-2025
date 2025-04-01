@@ -7,3 +7,6 @@ Agregar plantilla de contribución
 # Contributing
 
 Este es el [link](CONTRIBUTING.md) a la plantilla
+
+
+Pues le seguimos trabajando....
